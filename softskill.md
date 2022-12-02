@@ -7,8 +7,8 @@
 > in disregard of specific instances and with regard to an overall picture
 
 
-> USUALLY
-> In general, add a comma after an introductory phrase.
+-  USUALLY
+- In general, add a comma after an introductory phrase.
 > This is generally known as the poverty trap.
 > Generally, those who get organized and stay focused succeed in business.
 
