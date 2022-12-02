@@ -2,7 +2,11 @@
 
 
 > Generally, parents like playing with their children.
+
+
 > in disregard of specific instances and with regard to an overall picture
+
+
 > USUALLY
 > In general, add a comma after an introductory phrase.
 > This is generally known as the poverty trap.
