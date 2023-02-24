@@ -13,8 +13,8 @@
   - hate marriage?
   - lead a lonely ,austere existence ?
   
-      - ** egoist**:
-      - ** egotist**:
+      - **egoist** :
+      - **egotist**:
 
 ```mermaid
   graph TD;
